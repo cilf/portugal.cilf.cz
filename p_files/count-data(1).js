@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0 Comments","multiple":"{num} Comments","one":"1 Comment"}},"counts":[{"id":"197 http:\/\/portugal.cilf.cz\/?p=197","comments":0},{"id":"164 http:\/\/portugal.cilf.cz\/?p=164","comments":0},{"id":"19 http:\/\/portugal.cilf.cz\/?p=19","comments":0},{"id":"231 http:\/\/portugal.cilf.cz\/?p=231","comments":0},{"id":"161 http:\/\/portugal.cilf.cz\/?p=161","comments":0},{"id":"209 http:\/\/portugal.cilf.cz\/?p=209","comments":0},{"id":"221 http:\/\/portugal.cilf.cz\/?p=221","comments":0},{"id":"216 http:\/\/portugal.cilf.cz\/?p=216","comments":0},{"id":"175 http:\/\/portugal.cilf.cz\/?p=175","comments":0},{"id":"169 http:\/\/portugal.cilf.cz\/?p=169","comments":0}]});
+}
